@@ -1,0 +1,265 @@
+
+[
+  {
+    "id": 1,
+    "cat": 1,
+    "name": "Hamburguesa Clásica",
+    "image": "/images/burger2.jpg",
+    "ingredients": [
+      "Carne de res",
+      "Lechuga",
+      "Tomate",
+      "Cebolla morada",
+      "Queso",
+      "Pan de hamburguesa"
+    ],
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "cat": 1,
+    "name": "Hamburguesa Champi",
+    "image": "images/burger9.jpg",
+    "ingredients": [
+      "Carne de res",
+      "Queso suizo",
+      "Champiñones",
+      "Lechuga",
+      "Tomate",
+      "Cebolla",
+      "Pan de hamburguesa"
+    ],
+    "price": 10.99
+  },
+  {
+    "id": 3,
+    "cat": 1,
+    "name": "Hamburguesa Suprema",
+    "image": "/images/burger5.jpg",
+    "ingredients": [
+      "Doble carne de res",
+      "Doble queso cheddar",
+      "Lechuga",
+      "Tomate",
+      "Cebolla caramelizada",
+      "Pepinillo",
+      "Salsa golf"
+    ],
+    "price": 9.99
+  },
+  {
+    "id": 4,
+    "cat": 1,
+    "name": "Hamburguesa BBQ",
+    "image": "/images/burger3.jpg",
+    "ingredients": [
+      "Carne de res",
+      "Bacon",
+      "Queso cheddar",
+      "Lechuga",
+      "Pepinillo",
+      "Cebolla caramelizada",
+      "Pan de hamburguesa con sésamo"
+    ],
+    "price": 11.99
+  },
+  {
+    "id": 5,
+    "cat": 1,
+    "name": "Hamburguesa Doble",
+    "image": "/images/burger4.jpg",
+    "ingredients": [
+      "Doble carne de res",
+      "Doble queso cheddar",
+      "Lechuga",
+      "Tomate",
+      "Cebolla caramelizada",
+      "Pan de hamburguesa con sésamo"
+    ],
+    "price": 11.99
+  },
+  {
+    "id": 6,
+    "cat": 1,
+    "name": "Hamburguesa de la casa",
+    "image": "/images/burger1.jpg",
+    "ingredients": [
+      "Doble carne de res",
+      "Queso cheddar",
+      "Lechuga",
+      "Tomate",
+      "Pepinillo",
+      "Cebolla morada",
+      "Salsa golf"
+    ],
+    "price": 11.99
+  },
+  {
+    "id": 7,
+    "cat": 1,
+    "name": "Hamburguesa Destructora",
+    "image": "/images/burger7.jpg",
+    "ingredients": [
+      "Triple carne de res",
+      "Doble queso cheddar",
+      "Lechuga",
+      "Tomate",
+      "Ajies",
+      "Cebolla caramelizada"
+    ],
+    "price": 11.99
+  },
+  {
+    "id": 8,
+    "cat": 1,
+    "name": "Hamburguesa de pollo",
+    "image": "/images/burger10.jpg",
+    "ingredients": [
+      "Pollo empanado",
+      "Lechuga",
+      "Tomate",
+      "Cebolla morada",
+      "Salsa picante"
+    ],
+    "price": 11.99
+  },
+  {
+    "id": 9,
+    "cat": 1,
+    "name": "Hamburguesa Especial",
+    "image": "/images/burger6.jpg",
+    "ingredients": [
+      "Carne de res",
+      "Queso dambo",
+      "Doble huevo frito",
+      "Jamon cocido"
+    ],
+    "price": 11.99
+  },
+  
+
+  {
+    "id": 11,
+    "cat": 2,
+    "name": "Pizza Margharita",
+    "image": "/images/pizza5.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Albahaca"
+    ],
+    "price": 9.99
+  },
+  {
+    "id": 12,
+    "cat": 2,
+    "name": "Pizza Pepperoni",
+    "image": "/images/pizza1.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Pepperoni"
+    ],
+    "price": 10.99
+  },
+  {
+    "id": 13,
+    "cat": 2,
+    "name": "Pizza con choclo",
+    "image": "/images/pizza4.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Choclo",
+      "Morrones",
+      "Peregil"
+    ],
+    "price": 11.99
+  },
+  {
+    "id": 14,
+    "cat": 2,
+    "name": "Pizza con anchoas",
+    "image": "/images/pizza3.jpg",
+    "ingredients": [
+      "Masa de pizza integral",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Anchoas",
+      "Morrones",
+      "Cebolla"
+    ],
+    "price": 10.99
+  },
+  {
+    "id": 15,
+    "cat": 2,
+    "name": "Pizza burrata",
+    "image": "/images/pizza2.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Burrata",
+      "Albahaca"
+    ],
+    "price": 12.99
+  },
+  {
+    "id": 16,
+    "cat": 2,
+    "name": "Pizza doble queso",
+    "image": "/images/pizza7.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Queso dambo",
+      "Champiñones",
+      "Palmitos"
+    ],
+    "price": 13.99
+  },
+  {
+    "id": 17,
+    "cat": 2,
+    "name": "Pizza con jamon",
+    "image": "/images/pizza10.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Mozzarella",
+      "Tomate",
+      "Jamon cocido",
+      "Pepperoni",
+      "Ajies"
+    ],
+    "price": 13.99
+  },
+  {
+    "id": 18,
+    "cat": 2,
+    "name": "Pizza comun",
+    "image": "/images/pizza9.jpg",
+    "ingredients": ["Masa de pizza", "Salsa de tomate", "Mozzarella"],
+    "price": 13.99
+  },
+  {
+    "id": 19,
+    "cat": 2,
+    "name": "Pizza veggie",
+    "image": "/images/pizza6.jpg",
+    "ingredients": [
+      "Masa de pizza",
+      "Salsa de tomate",
+      "Tofu",
+      "Choclo",
+      "Champiñones"
+    ],
+    "price": 13.99
+  }
+  
+]

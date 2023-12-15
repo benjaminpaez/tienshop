@@ -1,0 +1,6 @@
+.home {
+    background: url("../../public/back-pizza.jpeg");
+    background-size: cover;
+    height: 92.5vh;
+    width: 100%;
+}
