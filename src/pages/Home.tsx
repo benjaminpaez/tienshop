@@ -34,8 +34,8 @@ export const Home = () => {
               className="img-fluid"
               style={{ width: "80%", height: "90%", borderRadius: '20%' }}
             />
-            <p style={{ color: "white" }}>
-              Una opcion para disfrutar el momento de descanso bien acompañado
+            <p style={{ color: "#afb8c1" }}>
+            Rápido, rico y con ese toquecito nuestro <br/> <h5 style={{ color: "white", fontFamily: 'Libre Baskerville', fontWeight: 'bold', }}>Somos el lugar ideal para esos antojos que te agarran de sorpresa</h5> 
             </p>
             
             <Link to="/store">
